@@ -17,9 +17,12 @@
     <li>💻 Run the main game file using the following command:</li>
 </ol>
 <pre>
-    python main.py
+    pip install pygame
 </pre>
-
+<pre>
+    Press the |> button on the main menu.
+</pre>
+<link href="image.png">
 <h2>🛠️ Requirements:</h2>
 <p>
     Make sure to install the necessary libraries. You can do this by running:
