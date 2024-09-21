@@ -25,7 +25,7 @@
 <pre>
     Press the |> button on the main menu.
 </pre>
-<link href="image.png">
+<img src="image.png" alt="Description of the image" />
 <h2>🛠️ Requirements:</h2>
 <p>
     Make sure to install the necessary libraries. You can do this by running:
