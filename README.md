@@ -22,9 +22,9 @@
 <pre>
     pip install pygame
 </pre>
-<pre>
-    Press the |> button on the main menu.
-</pre>
+<ol>
+    <li>>Press the |> button on the main menu.</li
+</ol>
 <img src="image.png" alt="Description of the image" />
 <h2>🛠️ Requirements:</h2>
 <p>
