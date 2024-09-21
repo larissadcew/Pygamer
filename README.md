@@ -8,6 +8,9 @@
 <pre>
     git clone https://github.com/larissadcew/Pygamer
 </pre>
+<pre>
+    pip install pygame
+</pre>
 <p>
     Follow these steps to get started:
 </p>
