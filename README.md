@@ -26,7 +26,7 @@
     <p>Press the |> button on the main menu.</p>
 </ol>
 <img src="image.png" alt="Description of the image" />
-<h2>🛠️ Requirements:</h2>
+
 <h2>🎉 Demo:</h2>
 <p>
     Check out the project on GitHub: 
