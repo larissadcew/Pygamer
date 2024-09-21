@@ -23,17 +23,10 @@
     pip install pygame
 </pre>
 <ol>
-    <li>>Press the |> button on the main menu.</li
+    <p>Press the |> button on the main menu.</p>
 </ol>
 <img src="image.png" alt="Description of the image" />
 <h2>🛠️ Requirements:</h2>
-<p>
-    Make sure to install the necessary libraries. You can do this by running:
-</p>
-<pre>
-    pip install -r requirements.txt
-</pre>
-
 <h2>🎉 Demo:</h2>
 <p>
     Check out the project on GitHub: 
